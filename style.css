@@ -1,0 +1,120 @@
+h1{
+    width: 178.06px;
+    height:25.81px;
+    top:382px;
+    left: 186px;
+    font:inter;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30.26px;
+    color: #FFFFFF;
+}
+h2{
+    width:178.06px;
+    height:14.19px;
+    top: 414px;
+    left: 186px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15.49px;
+    align-items: center;  
+    color: #F3BF99;
+}
+#12{
+    text-align: left;
+    color: #dcdcdc;
+}
+#11{
+    width: 115px;
+    height: 34px;
+    top: 465px;
+    left: 206px;
+    border-radius: 6px;
+    border: 1px;
+    padding{
+        top: 9px;
+        right: 13px;
+        bottom: 9px;
+        left: 11px;
+        gap: 8px;
+    }
+}
+#22{
+    background-color: #5093E2;
+}
+h4{
+    width: 228px;
+    height: 16px;
+    top: 437px;
+    left: 161px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 15.36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+#21{
+    text-align: left;
+    color: #dcdcdc;
+    background-color:#F5F5F5;
+}
+
+#33{
+    width: 550px;
+    height: 868px;
+    top: 287px;
+    left: 318px;
+    background-color: #1A1B21;
+    width: 317px;
+    height: 399px;
+    top: 361px;
+    left: 116px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+p{
+    color: #dcdcdc;
+    font-weight: 400px;
+    font-size: 10.24px;
+    line-height: 15.36px;
+    width: 247px;
+    height: 61px;
+    top: 580px;
+    left: 151px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: left;
+
+}
+#1{
+    background-color: #000;
+}
+div{
+    background-color: #1A1B21;
+    width: 318px;
+    height: 780px;
+    top: 287px;
+    left: 318px;
+    padding: 44px 116px 44px 116px;
+    gap: 0px;
+    opacity: 0px;    
+}
+section{
+    background-color: #23252C;
+    width: 550px;
+    height: 868px;
+    top: 287px;
+    left: 318px;
+    padding: 44px 116px 44px 116px;
+    gap: 0px;
+    opacity: 0px;       
+    
+}
+button{
+    width: 115px;
+    height: 34px;
+    border-radius: 6px;
+   }
