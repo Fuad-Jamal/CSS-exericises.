@@ -1,0 +1,140 @@
+h1{
+    width: 494.33px;
+    height: 34px;
+    top: 810.27px;
+    left: 26.91px;
+    gap: 0px;
+    opacity: 0px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 33.65px;
+    text-align: left;
+    padding: 4%;
+}
+#bombo{
+    text-align: center;
+    background-color: #E17654;
+    float: left;
+    color: #FFEAD0;
+    border-style: none;
+    width: 85.71px;
+    height: 33.89px;
+    top: 756px;
+    left: 27.06px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    margin-left: 5%;
+    border: 0;
+
+}
+
+#nett{
+    width: 494.33px;
+    height: 120px;
+    top: 908.81px;
+    left: 26.91px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 23.92px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding: 4%;
+
+}
+#mad{
+    width: 144.51px;
+    height: 41px;
+    top: 36px;
+    left: 26px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 25.35px;
+    font-weight: 900;
+    line-height: 40.27px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding: 4%;
+}
+footer{
+    background-color: #252525;
+    width: 548.15px;
+    height: 74.75px;
+    top: 1185px;
+    left: 0.06px;
+    padding: 25.68px 106.28px 25.15px 106px;
+    gap: 0px;
+    opacity: 0px;
+    width: 335.87px;
+    height: 23.92px;
+    top: 25.68px;
+    left: 106px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22.92px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #AAAAAA;
+}
+section{
+    width: 548.15px;
+    height: 1259.75px;
+    top: -629.86px;
+    left: -273.85px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #FFF7ED;
+    text-align: center;
+}
+#mambo{
+    width: 494.33px;
+    height: 49.83px;
+    top: 1050.46px;
+    left: 26.91px;
+gap: 0px;
+border-radius: 4.98px 0px 0px 0px;
+opacity: 0px;
+background: #FF8C38;
+color: #FFFFFF;
+border-style: none;
+float: center;
+
+}
+#nike{
+    width: 494.33px;
+height: 45px;
+top: 854px;
+left: 26.91px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 44.15px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 44.15px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+padding: 4%;
+
+}
+#opo{
+    text-align: left;
+    padding: 5%;
+}
