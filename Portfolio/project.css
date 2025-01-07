@@ -1,0 +1,29 @@
+#taskbar{
+    display: flex;
+    gap: 0%;
+}
+#list{
+    display: flex;
+    gap: 60%;
+    float: right;
+}
+#art{
+    float: right;
+    width: 705px;
+    height: 697px;
+    top: 289px;
+    left: 963px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+#skills{
+    display: grid;
+    grid: 150px/ auto auto auto auto;
+}
+#camp{
+    display: flow-root;
+}
+ul{
+    list-style-type: none;
+}
