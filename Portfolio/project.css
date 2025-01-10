@@ -19,11 +19,72 @@
 }
 #skills{
     display: grid;
-    grid: 150px/ auto auto auto auto;
+    grid: 100px/auto auto auto auto;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 42.19px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #445964; 
 }
 #camp{
     display: flow-root;
+    padding-top: 0%;
 }
 ul{
     list-style-type: none;
+}
+#python{
+
+}
+#foot{
+    display: flex;
+    gap: 50px;
+}
+#a,#b,#c{
+    h3{
+        font-family: Roboto;
+font-size: 36px;
+font-weight: 900;
+line-height: 42.19px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+width: 98px;
+height: 42px;
+top: 431px;
+left: 318px;
+gap: 0px;
+opacity: 0px;
+    }
+    p{
+    }
+}
+#a,#c{
+    background: #263138;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+#b{
+    background: #445964;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+h4{
+    width: 328px;
+height: 50px;
+top: 909px;
+left: 796px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 36px;
+font-weight: 900;
+line-height: 42.19px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
 }
