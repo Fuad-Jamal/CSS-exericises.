@@ -6,7 +6,18 @@
     display: flex;
     gap: 60%;
     float: right;
+    padding-left: 30%;
 }
+#mat{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 42.19px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #445964;
+    }
 #art{
     float: right;
     width: 705px;
@@ -86,5 +97,4 @@ line-height: 42.19px;
 text-align: center;
 text-underline-position: from-font;
 text-decoration-skip-ink: none;
-
 }
