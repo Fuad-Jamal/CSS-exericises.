@@ -2,11 +2,22 @@
     display: flex;
     gap: 0%;
 }
+.coco{
+    color: #445964;
+
+}
+
 #list{
     display: flex;
-    gap: 60%;
+    gap: 50%;
     float: right;
     padding-left: 30%;
+}
+.icon{
+    gap: 12cm;
+    img{
+        margin: 1%;
+    }
 }
 #mat{
     font-family: Roboto;
@@ -21,7 +32,7 @@
 #art{
     float: right;
     width: 705px;
-    height: 697px;
+    height: 380px;
     top: 289px;
     left: 963px;
     gap: 0px;
@@ -42,17 +53,38 @@
 }
 #camp{
     display: flow-root;
-    padding-top: 0%;
+    height: 100px;
+    margin-top: 2cm;
+    height: 900px;
 }
 ul{
     list-style-type: none;
 }
-#python{
 
-}
 #foot{
     display: flex;
     gap: 50px;
+}
+#saliba{
+    width: 310px;
+    height: 65px;
+    top: 700px;
+    left: 251px;
+    gap: 0px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+    background: #263138;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 28.13px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+    border-radius: 10px;
+    
+       
 }
 #a,#b,#c{
     h3{
