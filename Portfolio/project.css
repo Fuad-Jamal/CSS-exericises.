@@ -1,10 +1,13 @@
 #taskbar{
     display: flex;
-    gap: 0%;
+    gap: 0cm;
+    scroll-margin-bottom: 2cm;
 }
 .coco{
     color: #445964;
-
+}
+#dsi{
+    display: inline-block;
 }
 
 #list{
@@ -14,9 +17,9 @@
     padding-left: 30%;
 }
 .icon{
-    gap: 12cm;
+    gap: 19cm;
     img{
-        margin: 1%;
+        margin: 3%;
     }
 }
 #mat{
@@ -36,8 +39,7 @@
     top: 289px;
     left: 963px;
     gap: 0px;
-    opacity: 0px;
-    
+    opacity: 0px; 
 }
 #skills{
     display: grid;
@@ -50,6 +52,7 @@
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     color: #445964; 
+    margin-left: 2.5cm;
 }
 #camp{
     display: flow-root;
@@ -64,14 +67,15 @@ ul{
 #foot{
     display: flex;
     gap: 50px;
+    margin-left: 2.8cm;
 }
 #saliba{
     width: 310px;
     height: 65px;
-    top: 700px;
+    top: 500px;
     left: 251px;
     gap: 0px;
-    border-radius: 20px 0px 0px 0px;
+    border-radius: 10px 0px 0px 0px;
     opacity: 0px;
     background: #263138;
     font-family: Roboto;
@@ -82,20 +86,21 @@ ul{
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     color: #FFFFFF;
-    border-radius: 10px;
+    border-radius: 20px;
     
        
 }
 #a,#b,#c{
+
     h3{
         font-family: Roboto;
 font-size: 36px;
 font-weight: 900;
 line-height: 42.19px;
-text-align: left;
+text-align: center;
 text-underline-position: from-font;
 text-decoration-skip-ink: none;
-width: 98px;
+width: 300px;
 height: 42px;
 top: 431px;
 left: 318px;
@@ -103,6 +108,7 @@ gap: 0px;
 opacity: 0px;
     }
     p{
+        text-align: center;
     }
 }
 #a,#c{
