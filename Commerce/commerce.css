@@ -1,0 +1,66 @@
+#lg{
+    color: dodgerblue;
+}
+#nav{
+    list-style-type: none;
+    margin-left: 21cm;
+    gap: 3cm;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+nav{
+    display: flex;
+    align-items: flex-start;
+    /* background: linear-gradient(0deg, #FFFFFF, #FFFFFF),
+linear-gradient(1.02deg, #4A99D3 -17.33%, rgba(74, 153, 211, 0) 75.91%); */
+
+}
+#phones{
+    display: flex;
+    margin-left: 20cm;
+    align-items: flex-start;
+}
+#new{
+    width: 595px;
+    height: 140px;
+    top: 233px;
+    left: 245px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 70px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    }
+#sent{width: 636px;
+    height: 110px;
+    top: 387px;
+    left: 245px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Objective;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+img{
+    width: 380px;
+    height: 60px;
+    top: 557px;
+    left: 245px;
+    gap: 0px;
+    opacity: 0px;
+    }
+}
+button{
+    border: none;
+    background-color: white;
+    color: dodgerblue;
+}
